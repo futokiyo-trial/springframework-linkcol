@@ -9,6 +9,12 @@ SpringFramework 参考文献 リンク集
 
 [Spring Bootの本当の理解ポイント #jjug](https://www.slideshare.net/masatoshitada7/spring-boot-jjug)
 
+[ReactiveだけじゃないSpring 5 & Spring Boot 2新機能解説](https://www.slideshare.net/masatoshitada7/reactivespring-5-spring-boot-2)
+
+[Pivotal認定講師によるSpring Framework 5.1 & Spring Boot 2.1ハンズオン！ #jjug_ccc](https://www.slideshare.net/masatoshitada7/pivotalspring-framework-51-spring-boot-21-jjugccc)
+
+[Spring 5 & Spring Boot 2ハンズオン準備手順](https://qiita.com/suke_masa/items/44463518fdbbc13e0087)
+
 [今こそ知りたいSpring Test / Spring Fest 2020](https://speakerdeck.com/rshindo/spring-fest-2020)
 
 [Spring MVC(+Spring Boot)上での静的リソースへのアクセスを理解する](https://qiita.com/kazuki43zoo/items/e12a72d4ac4de418ee37)
