@@ -1,9 +1,13 @@
 # springframework-linkcol
 SpringFramework 参考文献 リンク集
 
+[SpringFest2020 セッション動画リンク集はこちら](https://springfest2020.springframework.jp/#sessions)
+
 [今こそ知りたいSpringエコシステム](https://docs.google.com/presentation/d/1kadTi0yG-_tKQ5cR7nyE4BBmdDOnEVXUmkncZueZgv8/edit#slide=id.p)
 
 [今こそ知りたいSpring DI×AOP / spring-di-aop-for-every-developers](https://speakerdeck.com/masatoshitada/spring-di-aop-for-every-developers)
+
+[What's New in Spring 5.3 and Spring Boot 2.4](https://docs.google.com/presentation/d/111ePUTXHwFqO-DW_8np1RRqsPtrF7rVnZhocfqOLgFk/edit#slide=id.g8294c00475_0_0)
 
 [Springのproxyとfinalメソッド、それからnull](http://backpaper0.github.io/2018/02/22/spring_proxy.html)
 
