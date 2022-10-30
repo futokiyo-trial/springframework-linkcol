@@ -105,3 +105,6 @@ SpringFramework 参考文献 リンク集
 
 [Spring Boot 3.0.0-RC1 available now - Spring Blog OCTOBER 20, 2022 ](https://spring.io/blog/2022/10/20/spring-boot-3-0-0-rc1-available-now)
 
+[Spring Framework 6から導入される宣言的HTTP Clientを試す - IK.AM 2022-06-08](https://ik.am/entries/695)
+
+
