@@ -107,4 +107,10 @@ SpringFramework 参考文献 リンク集
 
 [Spring Framework 6から導入される宣言的HTTP Clientを試す - IK.AM 2022-06-08](https://ik.am/entries/695)
 
+[Spring FrameworkのJDBC接続とスレッド（TaskExecutor利用）の関係を確認してみる -  CLOVER🍀 2021-04-28](https://kazuhira-r.hatenablog.com/entry/2021/04/28/001604)
+
+[Spring SecurityのOAuth 2.0サポートでKeycloak 19.0を使った認証を試す - CLOVER🍀  2022-08-19](https://kazuhira-r.hatenablog.com/entry/2022/08/19/015809)
+
+[オフライン開催！JSUG勉強会 2022年その3 Stephane Nicoll来日公演 - 2022-10-27](https://www.youtube.com/watch?v=vzybBwbAqp0&t=4s)
+
 
