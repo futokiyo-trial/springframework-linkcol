@@ -101,7 +101,21 @@ SpringFramework 参考文献 リンク集
 
 [Spring Framework 6.0 goes RC1 - Spring Blog October 12, 2022](https://spring.io/blog/2022/10/12/spring-framework-6-0-goes-rc1)
 
+[Spring Framework 6.0.0-RC2 available now - Spring Blog October 20, 2022](https://spring.io/blog/2022/10/20/spring-framework-6-0-0-rc2-available-now)
+
+[Spring Framework 6.0.0-RC3 available now - Spring Blog November 03, 2022](https://spring.io/blog/2022/11/03/spring-framework-6-0-0-rc3-available-now)
+
+[Spring Integration 6.0.0-RC1 Available - Spring Blog October 25, 2022](https://spring.io/blog/2022/10/25/spring-integration-6-0-0-rc1-available)
+
+[Spring Tools 4.16.1 released - Spring Blog October 26, 2022](https://spring.io/blog/2022/10/26/spring-tools-4-16-1-released)
+
+[Spring Security 5.7.5 and 5.6.9 available now - Spring Blog October 31, 2022](https://spring.io/blog/2022/10/31/spring-security-5-7-5-and-5-6-9-available-now)
+
+[Spring Authorization Server 1.0.0-RC1 available now - Spring Blog November 01, 2022](https://spring.io/blog/2022/11/01/spring-authorization-server-1-0-0-rc1-available-now)
+
 [Java News Roundup: Sequenced Collections, Spring 6.0-RC1, Apache Tomcat, Reactor 2022.0-RC1 - InfoQ Oct 17, 2022](https://www.infoq.com/news/2022/10/java-news-roundup-oct10-2022/c)
+
+[Preparing for Spring Boot 3.0 - Spring Blog  MAY 24, 2022 19](https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0)
 
 [Spring Boot 3.0.0-RC1 available now - Spring Blog OCTOBER 20, 2022 ](https://spring.io/blog/2022/10/20/spring-boot-3-0-0-rc1-available-now)
 
@@ -112,5 +126,12 @@ SpringFramework 参考文献 リンク集
 [Spring SecurityのOAuth 2.0サポートでKeycloak 19.0を使った認証を試す - CLOVER🍀  2022-08-19](https://kazuhira-r.hatenablog.com/entry/2022/08/19/015809)
 
 [オフライン開催！JSUG勉強会 2022年その3 Stephane Nicoll来日公演 - 2022-10-27](https://www.youtube.com/watch?v=vzybBwbAqp0&t=4s)
+
+
+[This page provides guidance on upgrading to Spring Framework 6.0.](https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-6.x)
+
+[Migrating to 6.0 - The Spring Security team has prepared the 5.8 release to simplify upgrading to Spring Security 6.0. Use 5.8 and the steps below to minimize changes when updating to 6.0 .](https://docs.spring.io/spring-security/reference/5.8/migration.html)
+
+[hantsy / spring6-sandbox](https://github.com/hantsy/spring6-sandbox)
 
 
