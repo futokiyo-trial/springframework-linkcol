@@ -57,6 +57,8 @@ SpringFramework 参考文献 リンク集
 
 [段階的に理解する Dependency Injection](https://qiita.com/ts7i/items/51a0b0b2c8a3b6e625f7)
 
+[R2DBC と Repository パターンについての現時点での評価と所感 - 壁にでも話してろ 2020-09-13 ](https://www.yo1000.com/r2dbc-jdbc-repository)
+
 [Dagger Hilt 紹介動画(Android用のDependencyInjectionの説明だが、0:52-03:41でDIの必要性を簡潔に説明)](https://www.youtube.com/watch?v=aqHQF2xyg9U&feature=youtu.be)
 
 [Dagger Hilt (DevFest 2020 資料)](https://qiita.com/takahirom/items/46053e031041405e2a9e)
