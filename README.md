@@ -117,6 +117,10 @@ SpringFramework 参考文献 リンク集
 
 [Java News Roundup: Sequenced Collections, Spring 6.0-RC1, Apache Tomcat, Reactor 2022.0-RC1 - InfoQ Oct 17, 2022](https://www.infoq.com/news/2022/10/java-news-roundup-oct10-2022/c)
 
+[Spring Framework 6.0.0-RC3 11月中旬に予定しているSpring Framework 6.0.0のGA前の最後のリリース候補予定 - Twitter 2022/11/7](https://twitter.com/yanashin18618/status/1589543307675602947)
+
+[Java News Roundup: Payara Platform 6, Spring Updates and CVEs, Asynchronous Stack Trace VM API - InfoQ NOV 07, 2022](https://www.infoq.com/news/2022/11/java-news-roundup-oct31-2022/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=java)
+
 [Preparing for Spring Boot 3.0 - Spring Blog  MAY 24, 2022 19](https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0)
 
 [Spring Boot 3.0.0-RC1 available now - Spring Blog OCTOBER 20, 2022 ](https://spring.io/blog/2022/10/20/spring-boot-3-0-0-rc1-available-now)
