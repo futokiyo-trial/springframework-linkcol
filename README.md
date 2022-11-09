@@ -107,6 +107,8 @@ SpringFramework 参考文献 リンク集
 
 [Spring Framework 6.0.0-RC3 available now - Spring Blog November 03, 2022](https://spring.io/blog/2022/11/03/spring-framework-6-0-0-rc3-available-now)
 
+[Spring Framework 6.0.0-RC4 available now - Spring Blog November 09, 2022](https://spring.io/blog/2022/11/09/spring-framework-6-0-0-rc4-available-now)
+
 [Spring Integration 6.0.0-RC1 Available - Spring Blog October 25, 2022](https://spring.io/blog/2022/10/25/spring-integration-6-0-0-rc1-available)
 
 [Spring Tools 4.16.1 released - Spring Blog October 26, 2022](https://spring.io/blog/2022/10/26/spring-tools-4-16-1-released)
@@ -124,6 +126,8 @@ SpringFramework 参考文献 リンク集
 [Preparing for Spring Boot 3.0 - Spring Blog  MAY 24, 2022 19](https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0)
 
 [Spring Boot 3.0.0-RC1 available now - Spring Blog OCTOBER 20, 2022 ](https://spring.io/blog/2022/10/20/spring-boot-3-0-0-rc1-available-now)
+
+[Spring Boot with Thymeleaf and Tailwind CSS - Complete Guide - November 09, 2022](https://maciejwalkowiak.com/blog/spring-boot-thymeleaf-tailwindcss/)
 
 [Spring Framework 6から導入される宣言的HTTP Clientを試す - IK.AM 2022-06-08](https://ik.am/entries/695)
 
