@@ -129,6 +129,10 @@ SpringFramework 参考文献 リンク集
 
 [Spring Boot with Thymeleaf and Tailwind CSS - Complete Guide - November 09, 2022](https://maciejwalkowiak.com/blog/spring-boot-thymeleaf-tailwindcss/)
 
+[Spring Boot 3 & Spring Framework 6  - Oliver Drotbohm November 08, 2022](https://speakerdeck.com/olivergierke/spring-boot-3-and-spring-framework-6)
+
+[Thymeleaf 3.1: What’s new and how to migrate - Latest verion is Thymeleaf 3.1.0.RC2.](https://www.thymeleaf.org/doc/articles/thymeleaf31whatsnew.html)
+
 [Spring Framework 6から導入される宣言的HTTP Clientを試す - IK.AM 2022-06-08](https://ik.am/entries/695)
 
 [Spring FrameworkのJDBC接続とスレッド（TaskExecutor利用）の関係を確認してみる -  CLOVER🍀 2021-04-28](https://kazuhira-r.hatenablog.com/entry/2021/04/28/001604)
