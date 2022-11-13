@@ -63,6 +63,14 @@ SpringFramework 参考文献 リンク集
 
 [Dagger Hilt (DevFest 2020 資料)](https://qiita.com/takahirom/items/46053e031041405e2a9e)
 
+[Spring BootからMyBatisを使ったDB接続(1回目 簡単なGET API)](https://zenn.dev/ryo7/articles/dev-app-by-spring-boot-mybatis01)
+
+[Spring BootからMyBatisを使ったDB接続(2回目 CRUDを行うAPI)](https://zenn.dev/ryo7/articles/dev-app-by-spring-boot-mybatis02)
+
+[Spring BootからMyBatisを使ったDB接続(3回目 トランザクション管理)](https://zenn.dev/ryo7/articles/dev-app-by-spring-boot-mybatis03)
+
+[Spring BootでMybatisログを出力する](https://zenn.dev/gleap_matsuura/articles/7df21582ffe5b1)
+
 [日本Springユーザ会](https://www.youtube.com/channel/UCr4HCVlT161KryFcLbWqOGQ/videos)
 
 [JSUG勉強会 2021年その1: YAVIの紹介 #jsug](https://www.youtube.com/watch?v=o0-u6QSBlv8)
