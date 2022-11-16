@@ -101,6 +101,8 @@ SpringFramework 参考文献 リンク集
 
 [Spring Security 5.7でセキュリティ設定の書き方が大幅に変わる件 2022年06月01日](https://qiita.com/suke_masa/items/908805dd45df08ba28d8)
 
+[Confused about request matchers in @SpringSecurity ? Should you use antMatchers, mvcMatchers, regexMatchers? 🤔They will all be deprecated in Spring Security 5.8 and removed in Spring Security 6.0 in favor of  requestMatchers.](https://twitter.com/sergialmar/status/1592810806160547840)
+
 [VS CODEとJetBrain JJUGナイトセミナー「開発環境の最前線」2022/01/28](https://www.youtube.com/watch?v=Zkn8NruppdM)
 
 [Java Development with Visual Studio Code](https://www.youtube.com/watch?v=YWzlCWSrKJ8)
@@ -127,8 +129,6 @@ SpringFramework 参考文献 リンク集
 
 [Java News Roundup: Sequenced Collections, Spring 6.0-RC1, Apache Tomcat, Reactor 2022.0-RC1 - InfoQ Oct 17, 2022](https://www.infoq.com/news/2022/10/java-news-roundup-oct10-2022/c)
 
-[Spring Framework 6.0.0-RC3 11月中旬に予定しているSpring Framework 6.0.0のGA前の最後のリリース候補予定 - Twitter 2022/11/7](https://twitter.com/yanashin18618/status/1589543307675602947)
-
 [Java News Roundup: Payara Platform 6, Spring Updates and CVEs, Asynchronous Stack Trace VM API - InfoQ NOV 07, 2022](https://www.infoq.com/news/2022/11/java-news-roundup-oct31-2022/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=java)
 
 [Preparing for Spring Boot 3.0 - Spring Blog  MAY 24, 2022 19](https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0)
@@ -148,6 +148,14 @@ SpringFramework 参考文献 リンク集
 [Spring SecurityのOAuth 2.0サポートでKeycloak 19.0を使った認証を試す - CLOVER🍀  2022-08-19](https://kazuhira-r.hatenablog.com/entry/2022/08/19/015809)
 
 [オフライン開催！JSUG勉強会 2022年その3 Stephane Nicoll来日公演 - 2022-10-27](https://www.youtube.com/watch?v=vzybBwbAqp0&t=4s)
+
+[Spring Framework 6.0 goes GA - Spring Blog November 16, 2022](https://spring.io/blog/2022/11/16/spring-framework-6-0-goes-ga)
+
+[What's New in Spring Framework 6.x -  spring-projects / spring-framework ](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
+
+[Upgrading to Spring Framework 6.x - spring-projects / spring-framework ](https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-6.x)
+
+[calendar.spring.io](https://calendar.spring.io/)
 
 
 [This page provides guidance on upgrading to Spring Framework 6.0.](https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-6.x)
