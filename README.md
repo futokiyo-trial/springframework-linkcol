@@ -125,7 +125,11 @@ SpringFramework 参考文献 リンク集
 
 [Spring Security 5.7.5 and 5.6.9 available now - Spring Blog October 31, 2022](https://spring.io/blog/2022/10/31/spring-security-5-7-5-and-5-6-9-available-now)
 
+[Migrating to 6.0 - The Spring Security team has prepared the 5.8 release to simplify upgrading to Spring Security 6.0. Use 5.8 and the steps below to minimize changes when updating to 6.0 .](https://docs.spring.io/spring-security/reference/5.8/migration.html)
+
 [Spring Authorization Server 1.0.0-RC1 available now - Spring Blog November 01, 2022](https://spring.io/blog/2022/11/01/spring-authorization-server-1-0-0-rc1-available-now)
+
+[Spring Authorization Server 1.0 is now GA - Spring Blog November 22, 2022](https://spring.io/blog/2022/11/22/spring-authorization-server-1-0-is-now-ga)
 
 [Java News Roundup: Sequenced Collections, Spring 6.0-RC1, Apache Tomcat, Reactor 2022.0-RC1 - InfoQ Oct 17, 2022](https://www.infoq.com/news/2022/10/java-news-roundup-oct10-2022/c)
 
@@ -162,8 +166,5 @@ SpringFramework 参考文献 リンク集
 
 [This page provides guidance on upgrading to Spring Framework 6.0.](https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-6.x)
 
-[Migrating to 6.0 - The Spring Security team has prepared the 5.8 release to simplify upgrading to Spring Security 6.0. Use 5.8 and the steps below to minimize changes when updating to 6.0 .](https://docs.spring.io/spring-security/reference/5.8/migration.html)
-
 [hantsy / spring6-sandbox](https://github.com/hantsy/spring6-sandbox)
-
 
