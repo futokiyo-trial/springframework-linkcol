@@ -153,6 +153,10 @@ SpringFramework 参考文献 リンク集
 
 [オフライン開催！JSUG勉強会 2022年その3 Stephane Nicoll来日公演 - 2022-10-27](https://www.youtube.com/watch?v=vzybBwbAqp0&t=4s)
 
+[5年ぶりのメジャーアップデート! Spring Framework 6 & Spring Boot 3 - JJUG CCC 2022 Fall](https://ik.am/entries/715)
+
+[A headless Blog Entries API ](https://github.com/categolj/blog-api)
+
 [Spring Framework 6.0 goes GA - Spring Blog November 16, 2022](https://spring.io/blog/2022/11/16/spring-framework-6-0-goes-ga)
 
 [What's New in Spring Framework 6.x -  spring-projects / spring-framework ](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
@@ -167,4 +171,6 @@ SpringFramework 参考文献 リンク集
 [This page provides guidance on upgrading to Spring Framework 6.0.](https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-6.x)
 
 [hantsy / spring6-sandbox](https://github.com/hantsy/spring6-sandbox)
+
+[イベントループスレッド内でのブロッキング操作を検知してくれるJVMエージェント / BlockHound](https://github.com/reactor/BlockHound)
 
