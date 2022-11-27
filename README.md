@@ -111,33 +111,17 @@ SpringFramework 参考文献 リンク集
 
 [初めてのひとのためのSpring/Spring Boot #jjug - June 02, 22](https://www.docswell.com/s/MasatoshiTada/5Q4EMZ-spring-101)
 
-[Spring Framework 6.0 goes RC1 - Spring Blog October 12, 2022](https://spring.io/blog/2022/10/12/spring-framework-6-0-goes-rc1)
-
-[Spring Framework 6.0.0-RC2 available now - Spring Blog October 20, 2022](https://spring.io/blog/2022/10/20/spring-framework-6-0-0-rc2-available-now)
-
-[Spring Framework 6.0.0-RC3 available now - Spring Blog November 03, 2022](https://spring.io/blog/2022/11/03/spring-framework-6-0-0-rc3-available-now)
-
-[Spring Framework 6.0.0-RC4 available now - Spring Blog November 09, 2022](https://spring.io/blog/2022/11/09/spring-framework-6-0-0-rc4-available-now)
-
-[Spring Integration 6.0.0-RC1 Available - Spring Blog October 25, 2022](https://spring.io/blog/2022/10/25/spring-integration-6-0-0-rc1-available)
-
 [Spring Tools 4.16.1 released - Spring Blog October 26, 2022](https://spring.io/blog/2022/10/26/spring-tools-4-16-1-released)
 
 [Spring Security 5.7.5 and 5.6.9 available now - Spring Blog October 31, 2022](https://spring.io/blog/2022/10/31/spring-security-5-7-5-and-5-6-9-available-now)
 
 [Migrating to 6.0 - The Spring Security team has prepared the 5.8 release to simplify upgrading to Spring Security 6.0. Use 5.8 and the steps below to minimize changes when updating to 6.0 .](https://docs.spring.io/spring-security/reference/5.8/migration.html)
 
-[Spring Authorization Server 1.0.0-RC1 available now - Spring Blog November 01, 2022](https://spring.io/blog/2022/11/01/spring-authorization-server-1-0-0-rc1-available-now)
-
-[Spring Authorization Server 1.0 is now GA - Spring Blog November 22, 2022](https://spring.io/blog/2022/11/22/spring-authorization-server-1-0-is-now-ga)
-
 [Java News Roundup: Sequenced Collections, Spring 6.0-RC1, Apache Tomcat, Reactor 2022.0-RC1 - InfoQ Oct 17, 2022](https://www.infoq.com/news/2022/10/java-news-roundup-oct10-2022/c)
 
 [Java News Roundup: Payara Platform 6, Spring Updates and CVEs, Asynchronous Stack Trace VM API - InfoQ NOV 07, 2022](https://www.infoq.com/news/2022/11/java-news-roundup-oct31-2022/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=java)
 
 [Preparing for Spring Boot 3.0 - Spring Blog  MAY 24, 2022 19](https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0)
-
-[Spring Boot 3.0.0-RC1 available now - Spring Blog OCTOBER 20, 2022 ](https://spring.io/blog/2022/10/20/spring-boot-3-0-0-rc1-available-now)
 
 [Spring Boot with Thymeleaf and Tailwind CSS - Complete Guide - November 09, 2022](https://maciejwalkowiak.com/blog/spring-boot-thymeleaf-tailwindcss/)
 
@@ -153,9 +137,20 @@ SpringFramework 参考文献 リンク集
 
 [オフライン開催！JSUG勉強会 2022年その3 Stephane Nicoll来日公演 - 2022-10-27](https://www.youtube.com/watch?v=vzybBwbAqp0&t=4s)
 
-[5年ぶりのメジャーアップデート! Spring Framework 6 & Spring Boot 3 - JJUG CCC 2022 Fall](https://ik.am/entries/715)
+[5年ぶりのメジャーアップデート! Spring Framework 6 & Spring Boot 3 - JJUG CCC 2022 Fall](https://bit.ly/ccc-boot3)
+
+[5年ぶりのメジャーアップデート! Spring Framework 6 & Spring Boot 3](https://ik.am/entries/715)
+
+[B 1000 篠原正太 AWS環境におけるSpring BootアプリケーションのCI CDをCircleCIで構築した話](https://www.youtube.com/watch?v=c-mb_17nIYs)
+
+[B 1500 槙俊明 5年ぶりのメジャーアップデート! Spring Framework 6 Spring Boot 3](https://www.youtube.com/watch?v=tnq4NBrlhHY)
+
+[B 1230 佐藤靖幸 Spring BootとKubernetesで実現する今どきのDevOps入門](https://www.youtube.com/watch?v=gt9hlokbiIc)
+
 
 [A headless Blog Entries API ](https://github.com/categolj/blog-api)
+
+[Subjectively, the most interesting Spring projects releases in November 2022:](https://twitter.com/maciejwalkowiak/status/1595883981374996486)
 
 [Spring Framework 6.0 goes GA - Spring Blog November 16, 2022](https://spring.io/blog/2022/11/16/spring-framework-6-0-goes-ga)
 
@@ -173,4 +168,19 @@ SpringFramework 参考文献 リンク集
 [hantsy / spring6-sandbox](https://github.com/hantsy/spring6-sandbox)
 
 [イベントループスレッド内でのブロッキング操作を検知してくれるJVMエージェント / BlockHound](https://github.com/reactor/BlockHound)
+
+[Spring Data 2022.0 goes GA](https://spring.io/blog/2022/11/18/spring-data-2022-0-goes-ga)
+
+[Spring Authorization Server 1.0 is now GA - Spring Blog November 22, 2022](https://spring.io/blog/2022/11/22/spring-authorization-server-1-0-is-now-ga)
+
+[Spring for GraphQL 1.1.0 released](https://spring.io/blog/2022/11/23/spring-for-graphql-1-1-0-released)
+
+[Spring Boot 3.0 Goes GA](https://spring.io/blog/2022/11/24/spring-boot-3-0-goes-ga)
+
+[Going Native With Spring Boot 3 GA](https://betterprogramming.pub/going-native-with-spring-boot-3-ga-4e8d91ab21d3)
+
+[待望の Spring Framework 6.0 と Spring Boot 3.0 がリリースされました。Spring Framework 5.0 のリリースから 5 年、新たな世代のスタートです。](https://twitter.com/yanashin18618/status/1595970066259902464)
+
+[Good question. You don't need it technically but adding the entry makes sure to tune the build and add some links in http://HELP.MD. Also if we detect that you use a dependency that needs some tuning, we'll do that for you (try with JPA).](https://twitter.com/snicoll/status/1595867333293010944)
+
 
