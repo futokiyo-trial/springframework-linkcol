@@ -143,6 +143,8 @@ SpringFramework 参考文献 リンク集
 
 [B 1000 篠原正太 AWS環境におけるSpring BootアプリケーションのCI CDをCircleCIで構築した話](https://www.youtube.com/watch?v=c-mb_17nIYs)
 
+[AWS環境におけるSpring BootアプリケーションのCI/CDをCircleCIで構築した話](https://speakerdeck.com/red_frasco/cdwocirclecidegou-zhu-sitahua)
+
 [B 1500 槙俊明 5年ぶりのメジャーアップデート! Spring Framework 6 Spring Boot 3](https://www.youtube.com/watch?v=tnq4NBrlhHY)
 
 [B 1230 佐藤靖幸 Spring BootとKubernetesで実現する今どきのDevOps入門](https://www.youtube.com/watch?v=gt9hlokbiIc)
@@ -183,4 +185,5 @@ SpringFramework 参考文献 リンク集
 
 [Good question. You don't need it technically but adding the entry makes sure to tune the build and add some links in http://HELP.MD. Also if we detect that you use a dependency that needs some tuning, we'll do that for you (try with JPA).](https://twitter.com/snicoll/status/1595867333293010944)
 
+[What's new in Spring? - Maciej Walkowiak November 28, 2022](https://maciejwalkowiak.com/blog/whats-new-in-spring/)
 
