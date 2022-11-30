@@ -187,3 +187,4 @@ SpringFramework 参考文献 リンク集
 
 [What's new in Spring? - Maciej Walkowiak November 28, 2022](https://maciejwalkowiak.com/blog/whats-new-in-spring/)
 
+[Using JWT with Spring Security OAuth November 17, 2022](https://www.baeldung.com/spring-security-oauth-jwt)
