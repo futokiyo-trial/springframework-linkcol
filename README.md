@@ -188,3 +188,12 @@ SpringFramework 参考文献 リンク集
 [What's new in Spring? - Maciej Walkowiak November 28, 2022](https://maciejwalkowiak.com/blog/whats-new-in-spring/)
 
 [Using JWT with Spring Security OAuth November 17, 2022](https://www.baeldung.com/spring-security-oauth-jwt)
+
+
+[📢 Introducing JUST 🚀 Just is a command line toolkit for developing It's like a superpower for 🍃Spring - makes you not only faster developer but also a happier person!](https://twitter.com/maciejwalkowiak/status/1602955934086713345)
+
+[just : Command Line toolkit for developing Spring Boot applications](https://just.maciejwalkowiak.com/)
+
+
+
+
