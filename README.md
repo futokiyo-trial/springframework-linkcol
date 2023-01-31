@@ -194,6 +194,6 @@ SpringFramework 参考文献 リンク集
 
 [just : Command Line toolkit for developing Spring Boot applications](https://just.maciejwalkowiak.com/)
 
-
+[Spring Boot 3.0のNative Imageを試してみた|2023/01/28 JavaDoでしょう#21](https://speakerdeck.com/kazuhiro1982/springboot-3-dot-0-nonative-imagewoshi-sitemita)
 
 
